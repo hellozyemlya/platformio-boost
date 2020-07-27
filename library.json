@@ -20,6 +20,6 @@
     "downloadUrl": "https://dl.bintray.com/boostorg/release/1.71.0/source/boost_1_71_0.tar.gz",
 
     "frameworks": ["arduino", "esp8266-nonos-sdk", "esp8266-rtos-sdk"],
-    "platforms": ["espressif8266", "atmelavr"]
+    "platforms": ["espressif8266", "atmelavr", "nordicnrf52"]
 }
 
